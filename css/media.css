@@ -573,6 +573,9 @@
 }
 
 @media (max-width: 481px) {
+  .swiper-slide img {
+    min-height: 470px;
+  }
 
   .header__logo svg {
     width: 110px;
